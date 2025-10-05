@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database
+*.sqlite3
+
+# Build output
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Vite/React build output
+demo-fronend/dist/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# MacOS
+.AppleDouble
+.LSOverride
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+
+# Others
+*.bak
+*.tmp
